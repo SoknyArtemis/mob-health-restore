@@ -39,7 +39,7 @@ mod 尚在初期版本，可能有一些遗漏和问题。
 })
 
 author = "星華輝月"
-version = "0.1.0"
+version = "0.1"
 
 api_version = 10
 
