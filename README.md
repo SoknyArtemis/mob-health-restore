@@ -1,13 +1,16 @@
-# 生物血量调整 Mob Health Tuner
+# Mob Health Tuner
 
-《饥荒：联机版》（Don't Starve Together）的服务端 mod。
+- A server-side mod for Don't Starve Together.
+- [中文 README](README.zh_CN.md)
 
-把敌对 / 中立生物的血量统一调整为 50%，以在单人游戏中平衡原本为多人游戏设计的血量数值。
-玩家、墙体、建筑、巢穴、船与纯友好生物不受影响。
+- Adjusts hostile / neutral creature health to 50% across the board, rebalancing values originally designed for multiplayer for solo play. Players, walls, structures, nests, boats and friendly creatures are unaffected.
 
-mod 尚在初期版本，可能有一些遗漏和问题。所有调整可在 `scripts/mhr_config.lua` 中手动编辑。
+- This mod is in an early version; some omissions and issues may remain. All adjustments can be manually edited in scripts/mhr_config.lua.
 
-## 声明
+## Declaration
 
-本 mod 在开发过程中使用了 AI 辅助
+- This mod was developed with the assistance of AI.
 
+---
+
+*If you find this project helpful, please consider giving it a Star ⭐!*
